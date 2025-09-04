@@ -1,9 +1,10 @@
+import CalcularFrete from "./components/CalcularFrete"
 
 function App() {
  
   return (
     <>
-     
+     <CalcularFrete/>
     </>
   )
 }

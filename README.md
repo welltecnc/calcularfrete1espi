@@ -31,6 +31,9 @@
 extensões: ES7+ React/Redux/React-Native snipets
 para criar o componene: rafce
 
+extensão tailwind
+Tailwind CSS IntelliSense
+
 12º instalando as dependências para o projeto no terminal:
 
 npm install react-router-dom
